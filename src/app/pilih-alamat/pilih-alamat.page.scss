@@ -17,7 +17,6 @@ ion-header{
       }
   }
 }
-
 img{
   width: 150px;
   height: 200px;
@@ -51,18 +50,11 @@ ion-card-content{
       }
     }
   }
+  ion-label{
+    font-family: 'Poppins';
+    color: #0555B6;
+    font-size: 1.3rem;
+    font-weight: 600;
 
-.white{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    background-color: #ffffff;
-
-}
-ion-label{
-  font-family: 'Poppins';
-  color: #0555B6;
-  font-size: 1.3rem;
-  font-weight: 600;
-
-  letter-spacing: 1px;
-}
+    letter-spacing: 1px;
+  }
